@@ -1,1 +1,2 @@
 # form_input_wave
+A visually appealing and user-friendly frontend encourages users to engage with the application regularly. It has an attractive and intuitive UI, which capture users' attention and make them more likely to utilize the app consistently to track their water intake.Visualizing users' progress in terms of water intake is crucial for a drink water app.I used Javascript for the backend, along with HTML, CSS, and JavaScript for the frontend.
